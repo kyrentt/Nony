@@ -1,2 +1,0 @@
-# Nony
-Django_project
